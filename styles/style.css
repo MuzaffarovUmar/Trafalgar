@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    padding-top: 135px;
+    padding-left: 107px;
+    padding-right: 107px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box .h1{
+    display: flex;
+    margin-left:450px;
+
+}
+.box .h1 h1{
+    font-size: 18px;
+    margin: 30px;
+    font-family: "Mulish", serif;
+}
+section{
+    display: flex;
+}
